@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="InncirclesArenaV1">
+	
+	<listeners>
+		<listener class-name="com.arena.utilities.Reporting"/>
+	</listeners>
+	
+	<test name="Arena Test">
+		<parameter name="browser" value="chrome"/>
+		<classes>
+			<!-- <class name="com.arena.testCases.TC_001_LoginTest"/> --> 
+			<!-- <class name="com.arena.testCases.TC_002_LoginDDT"/> -->
+			<!-- <class name="com.arena.testCases.TC_003_ProjectsPage"/> -->
+			<!-- <class name="com.arena.testCases.TC_004_ProjectPage"/> -->
+			<!-- <class name="com.arena.testCases.TC_005_RFI"/> -->
+			<!-- <class name="com.arena.testCases.TC_006_AddProjectLocation"/> -->
+			<!-- <class name="com.arena.testCases.TC_007_WorkLogsA1"/> -->
+			<class name="com.arena.testCases.TC_008_QL1_Log"/>
+			
+			
+		</classes>
+	</test>
+</suite>
