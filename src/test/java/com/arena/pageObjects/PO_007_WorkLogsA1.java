@@ -16,7 +16,7 @@ public class PO_007_WorkLogsA1 {
 			PageFactory.initElements(rdriver, this);
 		}
 		
-		@FindBy(xpath="//div[text()='Work Logs ']")
+		@FindBy(xpath="(//div[@class='d-flex px-0']//div)[2]")
 		@CacheLookup
 		WebElement crdWorkLogs;
 		
@@ -24,13 +24,25 @@ public class PO_007_WorkLogsA1 {
 		@CacheLookup
 		WebElement tabLocationTypes;
 		
-		@FindBy(xpath="//h6[contains(@class,'mat-tooltip-trigger mb-0')]")
+		@FindBy(xpath="//h6[text()=' INS - CONDUIT ']")
 		@CacheLookup
 		WebElement tabLocation;
 		
-		@FindBy(xpath="//label[@for='62d01e4ec772b555314709ee-input']//span")
+		@FindBy(xpath="//label[@for='62dd2d56d03f3f3ea7a0aba2-input']//span")
 		@CacheLookup
 		WebElement chkWorkPackage;
+		
+		
+		//2
+		@FindBy(xpath="//h6[text()=' INST - WIRE ']")
+		@CacheLookup
+		WebElement chkWireWorkPackage;
+		
+		//3
+		@FindBy(xpath="//h6[text()=' INST - FIELD TERMS ']")
+		@CacheLookup
+		WebElement chkFldTermsWorkPackage;
+			
 		
 		@FindBy(xpath="//span[text()=' Save Changes ']")
 		@CacheLookup
@@ -56,6 +68,18 @@ public class PO_007_WorkLogsA1 {
 		public void chkWorkPackage()
 		{
 			chkWorkPackage.click();
+		}
+		
+		//2
+		public void chkWireWorkPackage()
+		{
+			chkWireWorkPackage.click();
+		}
+		
+		//3
+		public void chkFldTermsWorkPackage()
+		{
+			chkFldTermsWorkPackage.click();
 		}
 		
 		public void btnSaveChanges()

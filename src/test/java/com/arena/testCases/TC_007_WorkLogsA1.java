@@ -13,6 +13,10 @@ import junit.framework.Assert;
 
 public class TC_007_WorkLogsA1 extends BaseClass {
 	
+	
+	
+	
+	
 	@Test
 	public void WorkLogs () throws InterruptedException, IOException
 	{
@@ -32,6 +36,7 @@ public class TC_007_WorkLogsA1 extends BaseClass {
 
 		Thread.sleep(4000);
 		
+				
 		PO_004_ProjectPage projectPage=new PO_004_ProjectPage(driver);
 		Thread.sleep(2000);
 		projectPage.clickProjectWorks();
@@ -43,7 +48,7 @@ public class TC_007_WorkLogsA1 extends BaseClass {
 		Thread.sleep(2000);
 		
 		PO_007_WorkLogsA1 newWorkLogsA1=new PO_007_WorkLogsA1(driver);
-		Thread.sleep(5000);
+		Thread.sleep(2000);
 		
 		newWorkLogsA1.crdWorkLogs();
 		Thread.sleep(4000);
@@ -65,8 +70,66 @@ public class TC_007_WorkLogsA1 extends BaseClass {
 		Thread.sleep(4000);
 		logger.info("Save Button Clicked");
 		
-		projectPage.clickProjectWorks();
-		logger.info("Project Works clicked");
+		
+		PO_007_WorkLogsA1 newWorkLogsA11=new PO_007_WorkLogsA1(driver);
+		Thread.sleep(2000);
+		//2
+		//driver.navigate().refresh();
+		//Thread.sleep(8000);
+		projectPage.clickFieldWorks();
+		logger.info("Field Works Clicked");
+		Thread.sleep(4000);
+		
+		newWorkLogsA11.crdWorkLogs();
+		Thread.sleep(4000);
+		logger.info("Worklogs Tab Clicked");
+		
+		newWorkLogsA11.tabLocationTypes();
+		Thread.sleep(4000);
+		logger.info("Location Type Selected");
+		
+		newWorkLogsA11.chkWireWorkPackage();
+		Thread.sleep(4000);
+		logger.info("Location Wire Selected");
+		
+		newWorkLogsA11.chkWorkPackage();
+		Thread.sleep(4000);
+		logger.info("Workpackage Checked");
+		
+		newWorkLogsA11.btnSaveChanges();
+		Thread.sleep(4000);
+		logger.info("Save Button Clicked");
+		
+		
+		PO_007_WorkLogsA1 newWorkLogsA13=new PO_007_WorkLogsA1(driver);
+		Thread.sleep(2000);
+		//3
+//		driver.navigate().refresh();
+//		Thread.sleep(8000);
+		projectPage.clickFieldWorks();
+		logger.info("Field Works Clicked");
+		Thread.sleep(4000);
+		
+		newWorkLogsA13.crdWorkLogs();
+		Thread.sleep(6000);
+		logger.info("Worklogs Tab Clicked");
+		
+		newWorkLogsA13.tabLocationTypes();
+		Thread.sleep(4000);
+		logger.info("Location Type Selected");
+		
+		newWorkLogsA13.chkFldTermsWorkPackage();
+		Thread.sleep(4000);
+		logger.info("Location Wire Selected");
+		
+		newWorkLogsA13.chkWorkPackage();
+		Thread.sleep(4000);
+		logger.info("Workpackage Checked");
+		
+		newWorkLogsA13.btnSaveChanges();
+		Thread.sleep(4000);
+		logger.info("Save Button Clicked");
+		
 		
 		boolean apl=driver.getPageSource().contains("Successfully saved worklogs");
 		

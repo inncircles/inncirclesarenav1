@@ -1,6 +1,7 @@
 package com.arena.pageObjects;
 
-
+import java.awt.AWTException;
+import java.awt.datatransfer.StringSelection;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -8,14 +9,14 @@ import org.openqa.selenium.support.CacheLookup;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
+import com.arena.testCases.ActionClass;
 import com.arena.testCases.BaseClass;
 
-public class PO_008_QL1_Log extends BaseClass {
+public class PO_009_QL2_Log extends BaseClass{
 	
 	WebDriver ldriver;
-	
-	
-	public PO_008_QL1_Log(WebDriver rdriver) 
+		
+	public PO_009_QL2_Log(WebDriver rdriver) 
 	{
 		ldriver=rdriver;
 		PageFactory.initElements(rdriver, this);
@@ -25,7 +26,7 @@ public class PO_008_QL1_Log extends BaseClass {
 	@CacheLookup
 	WebElement tabQuality;
 	
-	@FindBy(xpath="//div[text()='Quality Level 1 ']")
+	@FindBy(xpath="//div[text()='Quality Level 2 ']")
 	@CacheLookup
 	WebElement crdQL1;
 	
@@ -43,7 +44,7 @@ public class PO_008_QL1_Log extends BaseClass {
 	WebElement chk1;
 	
 	
-	@FindBy(xpath="//label[@for='mat-radio-6-input']//span")
+	@FindBy(xpath="//label[@for='mat-radio-7-input']//span")
 	@CacheLookup
 	WebElement chk2;
 	
@@ -133,20 +134,62 @@ public class PO_008_QL1_Log extends BaseClass {
 		@CacheLookup
 		WebElement ownerRepName;
 		
+		@FindBy(xpath="//label[@for='mat-checkbox-2-input']//span")
+		@CacheLookup
+		WebElement ownerRepSign;
+		
 		@FindBy(xpath="//input[@id='mat-input-32']")
 		@CacheLookup
 		WebElement custRepName;
 		
+		@FindBy(xpath="//mat-checkbox[@id='mat-checkbox-3']/label[1]/span[1]")
+		@CacheLookup
+		WebElement custRepSign;
+	
+	//No Checkpoint
+		@FindBy(xpath="//label[@for='file-input']//img[1]")
+		@CacheLookup
+		WebElement clkImage;
+		
+		@FindBy(xpath="//div[@data-placeholder='Comments']//p[1]")
+		@CacheLookup
+		WebElement chkComment1;
 	
 	//Checkpoints
-	public void tabCheckpoints() throws InterruptedException
+	public void tabCheckpoints() throws InterruptedException, AWTException
 	{
+		ActionClass ac=new ActionClass();
+		
 		chk1.click();
 		Thread.sleep(4000);
 		logger.info("Check 1 Clicked");
+		
+		
 		chk2.click();
 		Thread.sleep(4000);
-		logger.info("Check 2 Clicked");
+		
+		//For No checkpoint
+		
+		
+		clkImage.click();
+		Thread.sleep(4000);
+		
+		StringSelection ss1=new StringSelection("C:\\Users\\Inncircless\\Downloads\\Safety_Issue-07.jpg");
+		ac.SelectImage(driver, ss1);
+		
+		
+		clkImage.click();
+		Thread.sleep(4000);
+		
+		StringSelection ss2=new StringSelection("C:\\Users\\Inncircless\\Downloads\\Safety_Issue-08.jpg");
+		ac.SelectImage(driver, ss2);
+		
+		chkComment1.sendKeys("Quality Level Checkpoint 1 " + ac.getCurrentTime());
+		Thread.sleep(4000);
+		
+		logger.info("Quality Level 2 Issue 1 Entered");
+		
+		
 	}
 	//General Info
 	public void tabGeneralInfo() throws InterruptedException
@@ -231,8 +274,14 @@ public class PO_008_QL1_Log extends BaseClass {
 		ownerRepName.sendKeys("Srikanth");
 		Thread.sleep(2000);
 		
+		ownerRepSign.click();
+		Thread.sleep(2000);
+		
 		custRepName.clear();
 		custRepName.sendKeys("David");
+		Thread.sleep(2000);
+		
+		custRepSign.click();
 		Thread.sleep(2000);
 		logger.info("Representatives Names Entered");
 	}
@@ -282,3 +331,5 @@ public class PO_008_QL1_Log extends BaseClass {
 		btnSubmit.click();
 	}
 }
+
+

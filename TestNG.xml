@@ -14,10 +14,23 @@
 			<!-- <class name="com.arena.testCases.TC_003_ProjectsPage"/> -->
 			<!-- <class name="com.arena.testCases.TC_004_ProjectPage"/> -->
 			<!-- <class name="com.arena.testCases.TC_005_RFI"/> -->
-			<!-- <class name="com.arena.testCases.TC_006_AddProjectLocation"/> -->
-			<!-- <class name="com.arena.testCases.TC_007_WorkLogsA1"/> -->
-			<class name="com.arena.testCases.TC_008_QL1_Log"/>
 			
+							
+			<!-- <class name="com.arena.testCases.TC_011_CreateNewProject"/> -->
+			
+			<!-- <class name="com.arena.testCases.TC_006_AddProjectLocation"/> -->
+			
+			<!-- <class name="com.arena.testCases.TC_007_WorkLogsA1"/> -->
+
+			<!-- <class name="com.arena.testCases.TC_008_QL1_Log"/> -->
+			<!-- <class name="com.arena.testCases.TC_009_QL2_Log"/> -->
+			<!-- <class name="com.arena.testCases.TC_010_QualityRestraints"/> -->
+
+			<!-- <class name="com.arena.testCases.TC_012_Safety_NC_Form1"/> -->
+			
+			
+			
+						
 			
 		</classes>
 	</test>

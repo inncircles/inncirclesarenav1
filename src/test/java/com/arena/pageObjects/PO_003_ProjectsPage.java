@@ -17,7 +17,7 @@ public class PO_003_ProjectsPage {
 		PageFactory.initElements(rdriver, this);
 	}
 
-	@FindBy(how = How.XPATH, using="//h3[text()=' COMMERCIAL CONSTRUCTION PROJECT (CCP) ']")
+	@FindBy(how = How.XPATH, using="//h3[text()=' AI Testing ']")
 	@CacheLookup
 	WebElement clkProject;
 	
