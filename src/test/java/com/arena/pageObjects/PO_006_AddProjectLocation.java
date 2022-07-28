@@ -182,7 +182,7 @@ public class PO_006_AddProjectLocation extends BaseClass {
 	@CacheLookup
 	WebElement selectUser5;
 	
-	@FindBy(xpath="(//span[@class='mat-checkbox-inner-container mat-checkbox-inner-container-no-side-margin'])[35]")
+	@FindBy(xpath="(//span[@class='mat-checkbox-inner-container mat-checkbox-inner-container-no-side-margin'])[33]")
 	@CacheLookup
 	WebElement selectUser6;
 	
@@ -190,7 +190,7 @@ public class PO_006_AddProjectLocation extends BaseClass {
 	@CacheLookup
 	WebElement copyUsers;
 	
-	@FindBy(xpath="//mat-checkbox[@id='mat-checkbox-39']/label[1]/span[1]")
+	@FindBy(xpath="//mat-checkbox[@id='mat-checkbox-38']/label[1]/span[1]")
 	@CacheLookup
 	WebElement copyLocation;
 	

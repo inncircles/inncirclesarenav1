@@ -7,13 +7,13 @@
   <test thread-count="5" name="Arena Test(failed)">
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="com.arena.testCases.TC_012_Safety_NC_Form1">
+      <class name="com.arena.testCases.TC_013_SNC_Form_Config1">
         <methods>
+          <include name="SNCConfig1"/>
           <include name="setup"/>
           <include name="tearDown"/>
-          <include name="SNCF1LOg"/>
         </methods>
-      </class> <!-- com.arena.testCases.TC_012_Safety_NC_Form1 -->
+      </class> <!-- com.arena.testCases.TC_013_SNC_Form_Config1 -->
     </classes>
   </test> <!-- Arena Test(failed) -->
 </suite> <!-- Failed suite [InncirclesArenaV1] -->

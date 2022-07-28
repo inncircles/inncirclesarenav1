@@ -1221,3 +1221,260 @@
 2022-07-26 23:54:54,309 - InncirclesArenaV1 -INFO - Project Page clicked
 2022-07-26 23:55:00,489 - InncirclesArenaV1 -INFO - Project Works clicked
 2022-07-26 23:55:02,582 - InncirclesArenaV1 -INFO - Field Works Clicked
+2022-07-27 16:34:39,568 - InncirclesArenaV1 -INFO - Create Project Clicked
+2022-07-27 16:34:42,668 - InncirclesArenaV1 -INFO - Image Upload clicked
+2022-07-27 16:34:58,013 - InncirclesArenaV1 -INFO - Project Name Entered
+2022-07-27 16:35:01,183 - InncirclesArenaV1 -INFO - Customer Name Entered
+2022-07-27 16:36:46,817 - InncirclesArenaV1 -INFO - Create Project Clicked
+2022-07-27 16:36:49,918 - InncirclesArenaV1 -INFO - Image Upload clicked
+2022-07-27 16:37:05,353 - InncirclesArenaV1 -INFO - Project Name Entered
+2022-07-27 16:37:08,581 - InncirclesArenaV1 -INFO - Customer Name Entered
+2022-07-27 16:37:14,831 - InncirclesArenaV1 -INFO - Const Type Clicked
+2022-07-27 16:37:18,105 - InncirclesArenaV1 -INFO - Location Entered
+2022-07-27 16:37:21,327 - InncirclesArenaV1 -INFO - Owner Entered
+2022-07-27 16:37:24,538 - InncirclesArenaV1 -INFO - PM Entered
+2022-07-27 16:37:27,814 - InncirclesArenaV1 -INFO - Estimate Entered
+2022-07-27 16:37:30,914 - InncirclesArenaV1 -INFO - Submit clicked
+2022-07-27 16:37:37,511 - InncirclesArenaV1 -INFO - Successfully created the Project
+2022-07-27 16:38:20,459 - InncirclesArenaV1 -INFO - Project Page clicked
+2022-07-27 16:38:25,625 - InncirclesArenaV1 -INFO - Project Works clicked
+2022-07-27 16:38:38,860 - InncirclesArenaV1 -INFO - Create CWA clicked
+2022-07-27 16:38:45,038 - InncirclesArenaV1 -INFO - Button CWA Submit clicked
+2022-07-27 16:38:48,127 - InncirclesArenaV1 -INFO - Button CWA Submit clicked
+2022-07-27 16:39:00,623 - InncirclesArenaV1 -INFO - CWA Name changed
+2022-07-27 16:39:21,222 - InncirclesArenaV1 -INFO - Project Works clicked
+2022-07-27 16:39:23,304 - InncirclesArenaV1 -INFO - Project location created successfully
+2022-07-27 16:39:43,729 - InncirclesArenaV1 -INFO - Selected WBS
+2022-07-27 16:39:47,829 - InncirclesArenaV1 -INFO - Checked WBS for locaion
+2022-07-27 16:39:52,996 - InncirclesArenaV1 -INFO - Project Works clicked
+2022-07-27 16:39:53,054 - InncirclesArenaV1 -INFO - Successfully mapped the WBS
+2022-07-27 16:40:08,623 - InncirclesArenaV1 -INFO - Selected 1User
+2022-07-27 16:41:09,043 - InncirclesArenaV1 -INFO - Project Page clicked
+2022-07-27 16:41:17,659 - InncirclesArenaV1 -INFO - Project Works clicked
+2022-07-27 16:41:19,741 - InncirclesArenaV1 -INFO - Field Works Clicked
+2022-07-27 16:41:27,867 - InncirclesArenaV1 -INFO - Worklogs Tab Clicked
+2022-07-27 16:42:17,415 - InncirclesArenaV1 -INFO - Project Page clicked
+2022-07-27 16:42:23,585 - InncirclesArenaV1 -INFO - Project Works clicked
+2022-07-27 16:42:25,681 - InncirclesArenaV1 -INFO - Field Works Clicked
+2022-07-27 16:42:36,834 - InncirclesArenaV1 -INFO - Qualty Tab Clicked
+2022-07-27 16:42:40,936 - InncirclesArenaV1 -INFO - Quality Level 1 Clicked
+2022-07-27 16:43:27,084 - InncirclesArenaV1 -INFO - Project Page clicked
+2022-07-27 16:43:33,319 - InncirclesArenaV1 -INFO - Project Works clicked
+2022-07-27 16:43:35,421 - InncirclesArenaV1 -INFO - Field Works Clicked
+2022-07-27 16:43:46,573 - InncirclesArenaV1 -INFO - Qualty Tab Clicked
+2022-07-27 16:43:50,704 - InncirclesArenaV1 -INFO - Quality Level 1 Clicked
+2022-07-27 16:44:34,408 - InncirclesArenaV1 -INFO - Project Page clicked
+2022-07-27 16:44:40,851 - InncirclesArenaV1 -INFO - Project Works clicked
+2022-07-27 16:44:42,944 - InncirclesArenaV1 -INFO - Field Works Clicked
+2022-07-27 16:44:48,047 - InncirclesArenaV1 -INFO - Quality Tab Clicked
+2022-07-27 16:44:52,181 - InncirclesArenaV1 -INFO - Punch List Tab Clicked
+2022-07-27 16:44:56,317 - InncirclesArenaV1 -INFO - Restraints  Tab Clicked
+2022-07-27 16:45:00,468 - InncirclesArenaV1 -INFO - Add Restraint  button Clicked
+2022-07-27 16:45:02,565 - InncirclesArenaV1 -INFO - CWA Clicked
+2022-07-27 16:45:04,659 - InncirclesArenaV1 -INFO - 1st option Selected
+2022-07-27 16:45:06,751 - InncirclesArenaV1 -INFO - WD Clicked
+2022-07-27 16:45:08,846 - InncirclesArenaV1 -INFO - 2st option Selected
+2022-07-27 16:45:10,931 - InncirclesArenaV1 -INFO - Tag Type Clicked
+2022-07-27 16:45:13,041 - InncirclesArenaV1 -INFO - 1st option Selected
+2022-07-27 16:45:15,136 - InncirclesArenaV1 -INFO - Tag Clicked
+2022-07-27 16:45:17,246 - InncirclesArenaV1 -INFO - 1st option Selected
+2022-07-27 16:45:17,541 - InncirclesArenaV1 -INFO - Restraints description entered
+2022-07-27 16:45:21,654 - InncirclesArenaV1 -INFO - Image Upload clicked
+2022-07-27 16:45:55,917 - InncirclesArenaV1 -INFO - Submit button clicked
+2022-07-27 16:46:03,002 - InncirclesArenaV1 -INFO - Successfully saved Quality Restraint
+2022-07-27 16:54:11,027 - InncirclesArenaV1 -INFO - Project Page clicked
+2022-07-27 16:54:17,249 - InncirclesArenaV1 -INFO - Project Works clicked
+2022-07-27 16:54:19,348 - InncirclesArenaV1 -INFO - Field Works Clicked
+2022-07-27 16:54:27,479 - InncirclesArenaV1 -INFO - Worklogs Tab Clicked
+2022-07-27 16:54:31,581 - InncirclesArenaV1 -INFO - Location Type Selected
+2022-07-27 16:54:35,706 - InncirclesArenaV1 -INFO - Location Selected
+2022-07-27 16:55:22,443 - InncirclesArenaV1 -INFO - Project Page clicked
+2022-07-27 16:55:28,740 - InncirclesArenaV1 -INFO - Project Works clicked
+2022-07-27 16:55:30,829 - InncirclesArenaV1 -INFO - Field Works Clicked
+2022-07-27 16:55:41,964 - InncirclesArenaV1 -INFO - Qualty Tab Clicked
+2022-07-27 16:55:46,085 - InncirclesArenaV1 -INFO - Quality Level 1 Clicked
+2022-07-27 16:56:31,339 - InncirclesArenaV1 -INFO - Project Page clicked
+2022-07-27 16:56:37,690 - InncirclesArenaV1 -INFO - Project Works clicked
+2022-07-27 16:56:39,790 - InncirclesArenaV1 -INFO - Field Works Clicked
+2022-07-27 16:56:51,005 - InncirclesArenaV1 -INFO - Qualty Tab Clicked
+2022-07-27 16:56:55,240 - InncirclesArenaV1 -INFO - Quality Level 1 Clicked
+2022-07-27 17:01:35,817 - InncirclesArenaV1 -INFO - Project Page clicked
+2022-07-27 17:01:42,972 - InncirclesArenaV1 -INFO - Project Works clicked
+2022-07-27 17:01:45,080 - InncirclesArenaV1 -INFO - Field Works Clicked
+2022-07-27 17:01:53,205 - InncirclesArenaV1 -INFO - Worklogs Tab Clicked
+2022-07-27 17:01:57,299 - InncirclesArenaV1 -INFO - Location Type Selected
+2022-07-27 17:02:01,408 - InncirclesArenaV1 -INFO - Location Selected
+2022-07-27 17:13:23,780 - InncirclesArenaV1 -INFO - Project Page clicked
+2022-07-27 17:13:29,066 - InncirclesArenaV1 -INFO - Project Works clicked
+2022-07-27 17:13:42,324 - InncirclesArenaV1 -INFO - Create CWA clicked
+2022-07-27 17:13:48,517 - InncirclesArenaV1 -INFO - Button CWA Submit clicked
+2022-07-27 17:13:51,623 - InncirclesArenaV1 -INFO - Button CWA Submit clicked
+2022-07-27 17:14:04,153 - InncirclesArenaV1 -INFO - CWA Name changed
+2022-07-27 17:14:24,813 - InncirclesArenaV1 -INFO - Project Works clicked
+2022-07-27 17:14:26,911 - InncirclesArenaV1 -INFO - Project location created successfully
+2022-07-27 17:14:47,339 - InncirclesArenaV1 -INFO - Selected WBS
+2022-07-27 17:14:51,470 - InncirclesArenaV1 -INFO - Checked WBS for locaion
+2022-07-27 17:14:56,612 - InncirclesArenaV1 -INFO - Project Works clicked
+2022-07-27 17:14:56,691 - InncirclesArenaV1 -INFO - Successfully mapped the WBS
+2022-07-27 17:15:12,280 - InncirclesArenaV1 -INFO - Selected 1User
+2022-07-27 17:19:36,683 - InncirclesArenaV1 -INFO - Project Page clicked
+2022-07-27 17:19:41,883 - InncirclesArenaV1 -INFO - Project Works clicked
+2022-07-27 17:19:55,122 - InncirclesArenaV1 -INFO - Create CWA clicked
+2022-07-27 17:20:01,315 - InncirclesArenaV1 -INFO - Button CWA Submit clicked
+2022-07-27 17:20:04,429 - InncirclesArenaV1 -INFO - Button CWA Submit clicked
+2022-07-27 17:20:16,923 - InncirclesArenaV1 -INFO - CWA Name changed
+2022-07-27 17:20:37,548 - InncirclesArenaV1 -INFO - Project Works clicked
+2022-07-27 17:20:39,626 - InncirclesArenaV1 -INFO - Project location created successfully
+2022-07-27 17:21:00,085 - InncirclesArenaV1 -INFO - Selected WBS
+2022-07-27 17:21:04,188 - InncirclesArenaV1 -INFO - Checked WBS for locaion
+2022-07-27 17:21:09,343 - InncirclesArenaV1 -INFO - Project Works clicked
+2022-07-27 17:21:09,403 - InncirclesArenaV1 -INFO - Successfully mapped the WBS
+2022-07-27 17:21:25,064 - InncirclesArenaV1 -INFO - Selected 1User
+2022-07-27 17:21:48,587 - InncirclesArenaV1 -INFO - Selected WP1
+2022-07-27 17:21:51,692 - InncirclesArenaV1 -INFO - Copy users button clicked
+2022-07-27 17:21:55,785 - InncirclesArenaV1 -INFO - Selected Location for copy
+2022-07-27 17:21:55,850 - InncirclesArenaV1 -INFO - Save changes clicked
+2022-07-27 17:21:59,930 - InncirclesArenaV1 -INFO - Successfully Assigned People
+2022-07-27 17:23:11,533 - InncirclesArenaV1 -INFO - Project Page clicked
+2022-07-27 17:23:17,737 - InncirclesArenaV1 -INFO - Project Works clicked
+2022-07-27 17:23:19,847 - InncirclesArenaV1 -INFO - Field Works Clicked
+2022-07-27 17:23:27,993 - InncirclesArenaV1 -INFO - Worklogs Tab Clicked
+2022-07-27 17:23:32,098 - InncirclesArenaV1 -INFO - Location Type Selected
+2022-07-27 17:23:36,223 - InncirclesArenaV1 -INFO - Location Selected
+2022-07-27 17:37:37,969 - InncirclesArenaV1 -INFO - Project Page clicked
+2022-07-27 17:37:44,204 - InncirclesArenaV1 -INFO - Project Works clicked
+2022-07-27 17:37:46,285 - InncirclesArenaV1 -INFO - Field Works Clicked
+2022-07-27 17:37:54,400 - InncirclesArenaV1 -INFO - Worklogs Tab Clicked
+2022-07-27 17:37:58,530 - InncirclesArenaV1 -INFO - Location Type Selected
+2022-07-27 17:38:02,718 - InncirclesArenaV1 -INFO - Location Selected
+2022-07-27 17:38:06,884 - InncirclesArenaV1 -INFO - Workpackage Checked
+2022-07-27 17:38:11,062 - InncirclesArenaV1 -INFO - Save Button Clicked
+2022-07-27 17:38:13,164 - InncirclesArenaV1 -INFO - Field Works Clicked
+2022-07-27 17:38:21,256 - InncirclesArenaV1 -INFO - Worklogs Tab Clicked
+2022-07-27 17:51:29,954 - InncirclesArenaV1 -INFO - Project Page clicked
+2022-07-27 17:51:35,177 - InncirclesArenaV1 -INFO - Project Works clicked
+2022-07-27 17:53:44,593 - InncirclesArenaV1 -INFO - Project Page clicked
+2022-07-27 17:53:49,855 - InncirclesArenaV1 -INFO - Project Works clicked
+2022-07-27 17:55:37,496 - InncirclesArenaV1 -INFO - Project Page clicked
+2022-07-27 17:55:42,714 - InncirclesArenaV1 -INFO - Project Works clicked
+2022-07-27 17:56:04,403 - InncirclesArenaV1 -INFO - Selected 1User
+2022-07-27 17:56:27,977 - InncirclesArenaV1 -INFO - Selected WP1
+2022-07-27 17:56:31,086 - InncirclesArenaV1 -INFO - Copy users button clicked
+2022-07-27 17:56:35,190 - InncirclesArenaV1 -INFO - Selected Location for copy
+2022-07-27 17:56:35,259 - InncirclesArenaV1 -INFO - Save changes clicked
+2022-07-27 17:56:39,360 - InncirclesArenaV1 -INFO - Successfully Assigned People
+2022-07-27 17:59:39,356 - InncirclesArenaV1 -INFO - Project Page clicked
+2022-07-27 17:59:44,619 - InncirclesArenaV1 -INFO - Project Works clicked
+2022-07-27 18:00:06,277 - InncirclesArenaV1 -INFO - Selected 1User
+2022-07-27 18:00:29,842 - InncirclesArenaV1 -INFO - Selected WP1
+2022-07-27 18:00:32,926 - InncirclesArenaV1 -INFO - Copy users button clicked
+2022-07-27 18:00:37,013 - InncirclesArenaV1 -INFO - Selected Location for copy
+2022-07-27 18:00:37,076 - InncirclesArenaV1 -INFO - Save changes clicked
+2022-07-27 18:00:41,192 - InncirclesArenaV1 -INFO - Successfully Assigned People
+2022-07-27 18:03:23,538 - InncirclesArenaV1 -INFO - Project Page clicked
+2022-07-27 18:03:29,780 - InncirclesArenaV1 -INFO - Project Works clicked
+2022-07-27 18:03:31,872 - InncirclesArenaV1 -INFO - Field Works Clicked
+2022-07-27 18:03:43,016 - InncirclesArenaV1 -INFO - Qualty Tab Clicked
+2022-07-27 18:03:47,145 - InncirclesArenaV1 -INFO - Quality Level 1 Clicked
+2022-07-27 18:03:52,273 - InncirclesArenaV1 -INFO - Location Clicked
+2022-07-27 18:04:28,221 - InncirclesArenaV1 -INFO - Project Page clicked
+2022-07-27 18:04:34,453 - InncirclesArenaV1 -INFO - Project Works clicked
+2022-07-27 18:04:36,521 - InncirclesArenaV1 -INFO - Field Works Clicked
+2022-07-27 18:04:47,633 - InncirclesArenaV1 -INFO - Qualty Tab Clicked
+2022-07-27 18:04:51,743 - InncirclesArenaV1 -INFO - Quality Level 1 Clicked
+2022-07-27 18:04:56,854 - InncirclesArenaV1 -INFO - Location Clicked
+2022-07-27 18:05:07,994 - InncirclesArenaV1 -INFO - Expand Clicked
+2022-07-27 18:05:12,100 - InncirclesArenaV1 -INFO - Check 1 Clicked
+2022-07-27 18:05:16,188 - InncirclesArenaV1 -INFO - Check 2 Clicked
+2022-07-27 18:05:28,878 - InncirclesArenaV1 -INFO - MFG Entered
+2022-07-27 18:05:35,003 - InncirclesArenaV1 -INFO - Power Conductors down button clicked
+2022-07-27 18:05:39,104 - InncirclesArenaV1 -INFO - Power Conductors value selected clicked
+2022-07-27 18:05:43,195 - InncirclesArenaV1 -INFO - Control Conductors down button clicked
+2022-07-27 18:05:47,307 - InncirclesArenaV1 -INFO - Control Conductors value selected clicked
+2022-07-27 18:06:08,859 - InncirclesArenaV1 -INFO - Test Insulation data entered
+2022-07-27 18:06:23,172 - InncirclesArenaV1 -INFO - Test Acceptance values selected
+2022-07-27 18:06:30,285 - InncirclesArenaV1 -INFO - Escape key function activated
+2022-07-27 18:06:34,563 - InncirclesArenaV1 -INFO - Representatives Names Entered
+2022-07-27 18:06:40,686 - InncirclesArenaV1 -INFO - Submit button Clicked
+2022-07-27 18:06:44,781 - InncirclesArenaV1 -INFO - Successfully saved Quality Level 1 Form
+2022-07-27 18:08:14,432 - InncirclesArenaV1 -INFO - Project Page clicked
+2022-07-27 18:08:20,619 - InncirclesArenaV1 -INFO - Project Works clicked
+2022-07-27 18:08:22,694 - InncirclesArenaV1 -INFO - Field Works Clicked
+2022-07-27 18:08:33,809 - InncirclesArenaV1 -INFO - Qualty Tab Clicked
+2022-07-27 18:08:37,914 - InncirclesArenaV1 -INFO - Quality Level 1 Clicked
+2022-07-27 18:08:43,002 - InncirclesArenaV1 -INFO - Location Clicked
+2022-07-27 18:08:54,146 - InncirclesArenaV1 -INFO - Expand Clicked
+2022-07-27 18:08:58,239 - InncirclesArenaV1 -INFO - Check 1 Clicked
+2022-07-27 18:09:32,989 - InncirclesArenaV1 -INFO - Quality Level 2 Issue 1 Entered
+2022-07-27 18:09:45,668 - InncirclesArenaV1 -INFO - MFG Entered
+2022-07-27 18:09:51,805 - InncirclesArenaV1 -INFO - Power Conductors down button clicked
+2022-07-27 18:09:55,889 - InncirclesArenaV1 -INFO - Power Conductors value selected clicked
+2022-07-27 18:09:59,948 - InncirclesArenaV1 -INFO - Control Conductors down button clicked
+2022-07-27 18:10:04,037 - InncirclesArenaV1 -INFO - Control Conductors value selected clicked
+2022-07-27 18:10:25,622 - InncirclesArenaV1 -INFO - Test Insulation data entered
+2022-07-27 18:10:39,936 - InncirclesArenaV1 -INFO - Test Acceptance values selected
+2022-07-27 18:10:46,971 - InncirclesArenaV1 -INFO - Escape key function activated
+2022-07-27 18:10:55,429 - InncirclesArenaV1 -INFO - Representatives Names Entered
+2022-07-27 18:11:01,576 - InncirclesArenaV1 -INFO - Submit button Clicked
+2022-07-27 18:11:04,794 - InncirclesArenaV1 -INFO - Yes button Clicked
+2022-07-27 18:11:06,877 - InncirclesArenaV1 -INFO - Successfully saved Quality Level 2 Form
+2022-07-27 23:30:53,308 - InncirclesArenaV1 -INFO - Project Page clicked
+2022-07-27 23:30:59,650 - InncirclesArenaV1 -INFO - Project Works clicked
+2022-07-27 23:31:01,747 - InncirclesArenaV1 -INFO - Field Works Clicked
+2022-07-27 23:31:28,355 - InncirclesArenaV1 -INFO - Safety NC Form 1st Step
+2022-07-27 23:31:46,800 - InncirclesArenaV1 -INFO - Safety NC Forms selected
+2022-07-27 23:36:08,848 - InncirclesArenaV1 -INFO - Project Page clicked
+2022-07-27 23:36:15,354 - InncirclesArenaV1 -INFO - Project Works clicked
+2022-07-27 23:36:17,440 - InncirclesArenaV1 -INFO - Field Works Clicked
+2022-07-27 23:36:44,005 - InncirclesArenaV1 -INFO - Safety NC Form 1st Step
+2022-07-27 23:37:02,441 - InncirclesArenaV1 -INFO - Safety NC Forms selected
+2022-07-27 23:37:02,545 - InncirclesArenaV1 -INFO - Submit clicked
+2022-07-27 23:37:08,755 - InncirclesArenaV1 -INFO - Successfully created the Safery Non Calendar Category
+2022-07-28 00:03:04,908 - InncirclesArenaV1 -INFO - Project Page clicked
+2022-07-28 00:03:11,120 - InncirclesArenaV1 -INFO - Project Works clicked
+2022-07-28 00:03:13,220 - InncirclesArenaV1 -INFO - Field Works Clicked
+2022-07-28 00:03:39,767 - InncirclesArenaV1 -INFO - Safety NC Form 1st Step
+2022-07-28 00:03:58,249 - InncirclesArenaV1 -INFO - Safety NC Forms selected
+2022-07-28 00:03:58,349 - InncirclesArenaV1 -INFO - Submit clicked
+2022-07-28 00:04:04,559 - InncirclesArenaV1 -INFO - Successfully created the Safery Non Calendar Category
+2022-07-28 00:04:09,668 - InncirclesArenaV1 -INFO - General Cagetory clicked
+2022-07-28 00:04:36,417 - InncirclesArenaV1 -INFO - Assigned Users
+2022-07-28 00:07:26,589 - InncirclesArenaV1 -INFO - Project Page clicked
+2022-07-28 00:07:32,829 - InncirclesArenaV1 -INFO - Project Works clicked
+2022-07-28 00:07:34,936 - InncirclesArenaV1 -INFO - Field Works Clicked
+2022-07-28 00:08:01,523 - InncirclesArenaV1 -INFO - Safety NC Form 1st Step
+2022-07-28 00:08:20,002 - InncirclesArenaV1 -INFO - Safety NC Forms selected
+2022-07-28 00:08:20,087 - InncirclesArenaV1 -INFO - Submit clicked
+2022-07-28 00:08:26,256 - InncirclesArenaV1 -INFO - Successfully created the Safery Non Calendar Category
+2022-07-28 00:08:31,360 - InncirclesArenaV1 -INFO - General Cagetory clicked
+2022-07-28 00:08:58,111 - InncirclesArenaV1 -INFO - Assigned Users
+2022-07-28 00:10:43,160 - InncirclesArenaV1 -INFO - Project Page clicked
+2022-07-28 00:10:49,361 - InncirclesArenaV1 -INFO - Project Works clicked
+2022-07-28 00:10:51,470 - InncirclesArenaV1 -INFO - Field Works Clicked
+2022-07-28 00:11:18,010 - InncirclesArenaV1 -INFO - Safety NC Form 1st Step
+2022-07-28 00:11:36,496 - InncirclesArenaV1 -INFO - Safety NC Forms selected
+2022-07-28 00:11:36,602 - InncirclesArenaV1 -INFO - Submit clicked
+2022-07-28 00:11:42,781 - InncirclesArenaV1 -INFO - Successfully created the Safery Non Calendar Category
+2022-07-28 00:11:47,869 - InncirclesArenaV1 -INFO - General Cagetory clicked
+2022-07-28 00:12:14,645 - InncirclesArenaV1 -INFO - Assigned Users
+2022-07-28 00:15:55,954 - InncirclesArenaV1 -INFO - Project Page clicked
+2022-07-28 00:16:02,203 - InncirclesArenaV1 -INFO - Project Works clicked
+2022-07-28 00:16:04,302 - InncirclesArenaV1 -INFO - Field Works Clicked
+2022-07-28 00:16:30,878 - InncirclesArenaV1 -INFO - Safety NC Form 1st Step
+2022-07-28 00:16:49,358 - InncirclesArenaV1 -INFO - Safety NC Forms selected
+2022-07-28 00:16:49,459 - InncirclesArenaV1 -INFO - Submit clicked
+2022-07-28 00:16:55,666 - InncirclesArenaV1 -INFO - Successfully created the Safery Non Calendar Category
+2022-07-28 00:17:00,768 - InncirclesArenaV1 -INFO - General Cagetory clicked
+2022-07-28 00:17:27,581 - InncirclesArenaV1 -INFO - Assigned Users
+2022-07-28 00:20:25,949 - InncirclesArenaV1 -INFO - Project Page clicked
+2022-07-28 00:20:32,177 - InncirclesArenaV1 -INFO - Project Works clicked
+2022-07-28 00:20:34,271 - InncirclesArenaV1 -INFO - Field Works Clicked
+2022-07-28 00:21:00,877 - InncirclesArenaV1 -INFO - Safety NC Form 1st Step
+2022-07-28 00:21:19,306 - InncirclesArenaV1 -INFO - Safety NC Forms selected
+2022-07-28 00:21:19,402 - InncirclesArenaV1 -INFO - Submit clicked
+2022-07-28 00:21:25,601 - InncirclesArenaV1 -INFO - Successfully created the Safery Non Calendar Category
+2022-07-28 00:21:30,708 - InncirclesArenaV1 -INFO - General Cagetory clicked
+2022-07-28 00:21:57,448 - InncirclesArenaV1 -INFO - Assigned Users
+2022-07-28 00:22:15,870 - InncirclesArenaV1 -INFO - Copy Users
+2022-07-28 00:22:15,968 - InncirclesArenaV1 -INFO - Submit clicked
+2022-07-28 00:22:20,326 - InncirclesArenaV1 -INFO - Users Assignment failed

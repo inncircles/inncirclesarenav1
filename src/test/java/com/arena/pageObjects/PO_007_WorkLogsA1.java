@@ -28,7 +28,7 @@ public class PO_007_WorkLogsA1 {
 		@CacheLookup
 		WebElement tabLocation;
 		
-		@FindBy(xpath="//label[@for='62dd2d56d03f3f3ea7a0aba2-input']//span")
+		@FindBy(xpath="//label[@for='series-0-input']//span")
 		@CacheLookup
 		WebElement chkWorkPackage;
 		

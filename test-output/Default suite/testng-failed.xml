@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.arena.testCases.TC_005_RFI">
+      <class name="com.arena.testCases.TC_013_SNC_Form_Config1">
         <methods>
+          <include name="SNCConfig1"/>
           <include name="setup"/>
           <include name="tearDown"/>
-          <include name="newRFIForm"/>
         </methods>
-      </class> <!-- com.arena.testCases.TC_005_RFI -->
+      </class> <!-- com.arena.testCases.TC_013_SNC_Form_Config1 -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

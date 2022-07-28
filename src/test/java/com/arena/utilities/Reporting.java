@@ -41,11 +41,11 @@ public class Reporting extends TestListenerAdapter
 		extent.attachReporter(htmlReporter);
 		extent.setSystemInfo("Host name","localhost");
 		extent.setSystemInfo("Environemnt","QA");
-		extent.setSystemInfo("user","pavan");
+		extent.setSystemInfo("user","raghu");
 		
-		htmlReporter.config().setDocumentTitle("InetBanking Test Project"); // Tile of report
+		htmlReporter.config().setDocumentTitle("Inncircles Arena V1 Test Project"); // Tile of report
 		htmlReporter.config().setReportName("Functional Test Automation Report"); // Name of the report
-		//htmlReporter.config().setTestViewChartLocation(ChartLocation.TOP); //location of the chart
+//		htmlReporter.config().setTestViewChartLocation(ChartLocation.TOP); //location of the chart
 		htmlReporter.config().setTheme(Theme.DARK);
 	}
 	
